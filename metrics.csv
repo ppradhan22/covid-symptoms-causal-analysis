@@ -1,0 +1,15 @@
+,0
+raw_rows,822.0
+raw_columns,472.0
+kb_rows,70983.0
+kb_columns,11.0
+pcr_known_n,559.0
+pcr_positive_n,58.0
+pcr_negative_n,501.0
+raw_baseline_probability,0.1037567084078712
+kb_baseline_probability,0.10126582278481013
+demi_probability_six_symptoms_half_weight,0.9662262278921444
+demi_probability_four_symptoms_half_weight,0.5847608099887712
+empirical_probability_six_symptoms,0.8333333333333334
+empirical_n_six_symptoms,6.0
+empirical_positive_six_symptoms,5.0

@@ -1,0 +1,8 @@
+Step,N,Positive,Empirical probability
+Baseline,559,58,0.1037567084078712
+Fever,64,26,0.40625
+Fever + cough,45,20,0.4444444444444444
++ fatigue,32,15,0.46875
++ headache,26,13,0.5
++ loss of smell,12,7,0.5833333333333334
++ loss of taste,6,5,0.8333333333333334
