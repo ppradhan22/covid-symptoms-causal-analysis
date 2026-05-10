@@ -15,5 +15,28 @@ Final project for Spring 2026.
 3. Run all cells from top to bottom.
 4. The notebook creates an `outputs/` folder with summary CSV files and PNG charts.
 
-## Project summary
-The project estimates the probability of a PCR-positive COVID-19 result using symptom evidence represented in a DEMI knowledgebase. The target outcome is `PCR Test Positive`. The demonstration patient scenario includes fever, cough, fatigue, headache, loss of smell, and loss of taste.
+
+## Overview
+This project uses DEMI causal analysis methods to estimate the probability of PCR-confirmed COVID-19 infection using symptoms, exposure history, demographic variables, and medical history.
+
+## Files Included
+- Jupyter Notebook
+- Final APA Report
+- Presentation Slides
+- DEMI Knowledgebase
+- COVIDCARE Dataset
+
+## Methods
+The project applies:
+- Temporal ordering
+- Total effect analysis
+- Direct effect analysis
+- Sequential probability updating
+
+## Outcome
+The target outcome variable is PCR-confirmed COVID-19 positivity.
+
+## Author
+Paridhi Pradhan
+George Mason University
+Spring 2026
